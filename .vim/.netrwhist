@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/usr/lib'
+let g:netrw_dirhist_2='/home/lsp24/hw04'
+let g:netrw_dirhist_3='/home/practice/hw02'
+let g:netrw_dirhist_4='/home/lsp24/hw05'
